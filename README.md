@@ -1,3 +1,4 @@
+# Exercise Tracker
 This boilerplate provides a foundation for creating an API to manage user exercises and logs. Users can submit exercise and user information via forms, and the API will respond with structured data.
 
 Data Models and API Responses
